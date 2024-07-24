@@ -1,5 +1,5 @@
 #!/bin/bash 
 
-echo "hello , azar your learning shell script"
+echo "hello , azar your learning shell script "
 
 
